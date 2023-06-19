@@ -1,0 +1,86 @@
+
+<html lang="en">
+        <meta charset = "UTF-8">
+  <meta name="viewport"
+        connect="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet"
+   
+
+href="styles.css"
+<script src="main.js"></script>
+
+<nav>
+	<ul>
+		<li>KRISHAY/'S WARDROBE</li>
+		<li>
+			<div class="smallBtn">FALL'S FASHIONS</div>
+		</li>
+		<li></li>
+	</ul>
+</nav>
+<body>
+<main>
+	<div>
+		<div class="bigBtn">BROWSE</div>
+
+		<div id="clothesDiv">
+			<div id="topCarousel">
+				<div class="carouselContainer">
+					<img class="noDisplay one top" src='https://github.com/heyvinyls/Clueless-Software-Mock/blob/main/IMG_9979.JPG?raw=true'>
+					<img class="noDisplay two" src='https://github.com/heyvinyls/Clueless-Software-Mock/blob/main/IMG_9981.JPG?raw=true'>
+					<img class="noDisplay three" src='https://github.com/heyvinyls/Clueless-Software-Mock/blob/main/IMG_9978.JPG?raw=true'>
+					<img class="four" src='https://github.com/heyvinyls/Clueless-Software-Mock/blob/main/IMG_9992.JPG?raw=true'>
+				</div>
+			</div>
+
+			<div class="carouselBtnDiv">
+				<span class="carouselBtn top prev">◂◂</span>
+				<span class="carouselBtn top next">▸</span>
+				<span class="carouselBtn top next">▸▸</span>
+			</div>
+
+			<div id="bottomCarousel">
+				<div class="carouselContainer">
+					<img class="noDisplay one bottom" src='https://github.com/heyvinyls/Clueless-Software-Mock/blob/main/IMG_9976.JPG?raw=true'>
+					<img class="noDisplay two" src='https://github.com/heyvinyls/Clueless-Software-Mock/blob/main/IMG_9982.JPG?raw=true'>
+					<img class="noDisplay three" src='https://github.com/heyvinyls/Clueless-Software-Mock/blob/main/IMG_9977.JPG?raw=true'>
+					<img class="four" src='https://github.com/heyvinyls/Clueless-Software-Mock/blob/main/IMG_9995.JPG?raw=true'>
+				</div>
+			</div>
+
+			<div class="carouselBtnDiv">
+				<span class="carouselBtn bottom prev">◂◂</span>
+				<span class="carouselBtn bottom next">▸</span>
+				<span class="carouselBtn bottom next">▸▸</span>
+			</div>
+		</div>
+
+		<div class="bigBtn" id="dressMeBtn">DRESS ME</div>
+	</div>
+</main>
+
+<footer>
+	<ul>
+		<li>SHOES</li>
+		<li>JEWELRY</li>
+		<li>SCARVES</li>
+		<li>PANTYHOSE</li>
+		<li>UNDERWEAR</li>
+		<li>PANTS</li>
+		<li>SWEATER</li>
+		<li>
+			<a href="https://github.com/heyvinyls" target="_blank">
+				<div class="smallBtn">MORE</div>
+			</a>
+		</li>
+	</ul>
+</footer>
+
+<aside id="popUpDiv" class="noDisplay">
+	<div id="popUp"></div>
+	<div id="popUpShadow"></div>
+</aside>
+<aside id="overlay"></aside>
+  <audio controls src="https://github.com/heyvinyls/Clueless-Software-Mock/raw/audio/folder/David%20Bowie%20•%20Fashion%20(CC)%20🎤%20%5BKaraoke%5D%20%5BInstrumental%20Lyrics%5D%20(320%20kbps).mp3"
+</body>
+</html>
